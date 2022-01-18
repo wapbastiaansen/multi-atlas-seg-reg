@@ -87,7 +87,7 @@ To contribute:
 
 ## References
 If you use (parts) of the code, please cite:
-[To be filled after acceptence of manuscripts]()
+[To be filled]()
 
 More references and recorded talks on parts of the code:
 - **Development of affine network:** [Bastiaansen, W. A., Rousian, M., Steegers-Theunissen, R. P., Niessen, W. J., Koning, A., & Klein, S. (2020, December). Towards segmentation and spatial alignment of the human embryonic brain using deep learning for atlas-based registration. In International Workshop on Biomedical Image Registration (pp. 34-43). Springer, Cham.](https://arxiv.org/abs/2005.06368) [**recorded talk**](https://www.youtube.com/watch?v=3ez-dGklAno&feature=youtu.be)
