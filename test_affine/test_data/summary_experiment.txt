@@ -1,0 +1,5 @@
+integer: 1
+list: [1, 0]
+directory: /test/file.nii
+learning_rate: 0.001
+str_num: 47
