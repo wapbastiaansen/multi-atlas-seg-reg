@@ -1,3 +1,7 @@
+# Moved to gitlab
+
+The repostory moved to gitlab: [https://gitlab.com/radiology/prenatal-image-analysis/multi-atlas-seg-reg](https://gitlab.com/radiology/prenatal-image-analysis/multi-atlas-seg-reg)
+
 # multi-atlas-seg-reg: Multi-Atlas Segmentation and Registration
 
 ![image name](./resources/overview_framework_network_only.png)
